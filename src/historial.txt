@@ -1,0 +1,5 @@
+Conversión (USD -> PEN) de 10.0 es 37.95, fue hecha a las 2024-07-08T12:34:01.589773500
+Conversión (USD -> PEN) de 100.0 es 379.5, fue hecha a las 2024-07-08T12:34:15.427899200
+Conversión (usd -> pen) de 10.0 es 0.0, fue hecha a las 2024-07-08T14:10:31.989672900
+Conversión (10 -> 10) de 10.0 es 0.0, fue hecha a las 2024-07-08T14:10:39.991039200
+Conversión (USD -> PEN) de 10.0 es 37.95, fue hecha a las 2024-07-08T14:10:48.179358900
